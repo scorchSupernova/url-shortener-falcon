@@ -1,7 +1,7 @@
 ## URL Shortener
 
 ### Technology
-    [1] Falcon -- [Falcon Docs](https://falcon.readthedocs.io/)
+    [1] Falcon -- [Falcon Docs]: (https://falcon.readthedocs.io/)
     [2] SqlAlchemy -- [SqlAlchemy Docs]([url](https://www.sqlalchemy.org/))
     [3] PostgreSQL -- [PostgreSQL Docs]([url](https://www.postgresql.org/))
 
