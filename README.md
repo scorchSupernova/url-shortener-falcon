@@ -1,9 +1,9 @@
 ## URL Shortener
 
 ### Technology
-    Falcon -- [Falcon Docs](https://falcon.readthedocs.io/)
-    SqlAlchemy -- [SqlAlchemy Docs]([url](https://www.sqlalchemy.org/))
-    PostgreSQL -- [PostgreSQL Docs]([url](https://www.postgresql.org/))
+    [1] Falcon -- https://falcon.readthedocs.io/
+    [2] SqlAlchemy -- https://www.sqlalchemy.org/
+    [3] PostgreSQL -- https://www.postgresql.org/
 
 ### Process to use
     [1] Install all the requirements by running pip install -r requirements.txt.
